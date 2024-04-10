@@ -1,12 +1,12 @@
 import React from 'react';
-import Mycomp from './Mycomp';
+import ToDoList from './ToDoList';
 
 
 
 function App() {
     return (
         <>
-          <Mycomp />
+          <ToDoList />
         </>
     );
 }
